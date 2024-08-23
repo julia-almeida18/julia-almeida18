@@ -1,0 +1,33 @@
+.botao {
+    padding: 25px;
+    border-radius: 25%;
+    background-color:rgb(252, 204, 212) ;
+    font-size: 150%;
+    color: rgb(156, 48, 66);
+    
+}
+
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(156, 48, 66);
+    font-size: 350%;
+}
+
+.subtitle{
+    color: rgb(165, 43, 63);
+    font-size: 200%;
+}
+
+body{
+    background-color: rgb(199, 205, 252);
+}
+
+.botao1{
+    list-style: none;
+}
+
+.botao:hover {
+    background-color:rgb(156, 48, 66);
+    color: rgb(252, 204, 212) ;;
+}
